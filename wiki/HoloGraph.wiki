@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Holograph a emulator created by meth0d<br>
+And edited by others.
+
+
+= Details =
+
+<br><strong>V26</strong><br>
