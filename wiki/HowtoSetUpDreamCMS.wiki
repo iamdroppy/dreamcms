@@ -1,43 +1,15 @@
 # Simple Tut on how to set up DreamCMS#
 
-#first#
+=first=
 
-1) Download Latest DreamCMS build
-2) Extract Everything into your HTDOCS
-3) Open Config.php And Change The settings To Your Advantage
-
-File:
-<?php
-//Start Config Details  //
-//Made By GarettMcCarty //
-
-$settings['Mysql']['host']      = 'host'; 
-$settings['Mysql']['user']      = 'user';
-$settings['Mysql']['pass']      = 'password';
-$settings['Mysql']['db']        = 'database';
-
-// If you change this CMS will fail
-$settings['key']      = 'Otaku'; Witch Server To Connect To
-$settings['liceance'] = '0010-0010-0001-0110'; Free License Key
-$settings['loop']     = 'no'; Installer Thing
-// If you change this CMS will fail
-
-$settings['sitename'] = 'Sitename';
-$settings['language'] = 'en';   Language Code
-$settings['server']   = 'phoenix';  Server To Use
-
-$settings['www']      = 'http://google.com'; no '/' your site
-$settings['cURL']     = 'no'; If u want to use cURL function gone in later CMS's
-$settings['Connect']  = 'passive'; MYSQL connection type
-$settings['https']    = 'no'; Force HTTPS on Hotel
-$settings['hqhttps']  = 'yes'; Force HTTPS on Housekeeping --> Safer
-
-
-
-?>
-4) Run Installer.php or install/ ( Decides Witch Version )
-5) Enter Your license Key If u have DELTA or SUPER Version
-6) Choose Your Version Of Your server In installer
-7) Click Run And if Errors CMOD ur Installer to 777
-8) Delete Your Installer
-9) Love your new habbo Retro
+{{{
+Download Latest DreamCMS build 
+Extract Everything into your HTDOCS
+Open Config.php And Change The settings To Your Advantage 
+Run Installer.php or install/  `Decides Witch Version
+Enter Your license Key If u have DELTA or SUPER Version
+Choose Your Version Of Your server In installer
+Click Run And if Errors CMOD ur Installer to 777
+Delete Your Installer 
+Love your new habbo Retro
+}}}
