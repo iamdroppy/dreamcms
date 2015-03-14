@@ -1,0 +1,15 @@
+# Simple Tut on how to set up DreamCMS#
+
+# first #
+
+```
+Download Latest DreamCMS build 
+Extract Everything into your HTDOCS
+Open Config.php And Change The settings To Your Advantage 
+Run Installer.php or install/  `Decides Witch Version
+Enter Your license Key If u have DELTA or SUPER Version
+Choose Your Version Of Your server In installer
+Click Run And if Errors CMOD ur Installer to 777
+Delete Your Installer 
+Love your new habbo Retro
+```
